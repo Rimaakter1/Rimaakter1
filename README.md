@@ -20,7 +20,7 @@
 ## 🚀 **Skills & Tools**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,figma,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,vscode" alt="Skill Icons" />
 </div>  
 
 ---
