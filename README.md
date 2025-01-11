@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://i.ibb.co.com/MfKNvVz/Rima-Akter-3.png" alt="Banner Image" />
+</h1>
 
 <h1 align="center">Hi there! 👋 I'm <strong>Rima Akter</strong></h1>
 <h3 align="center">Frontend Developer | Crafting Responsive and User-Friendly Websites</h3>
@@ -62,4 +65,3 @@
 ---
 
 🎨 Feel free to connect with me, and let's build amazing things together!
-
