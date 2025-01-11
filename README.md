@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/MfKNvVz/Rima-Akter-3.png" alt="Banner Image" />
 </h1>
 
-<h1 align="center">Hi there! 👋 I'm <strong>Rima Akter</strong></h1>
+<h1 align="center">Hi,👋 I'm <strong>Rima Akter</strong></h1>
 <h3 align="center">Frontend Developer | Crafting Responsive and User-Friendly Websites</h3>
 
 ---
