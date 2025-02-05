@@ -10,21 +10,29 @@
 ## 🌟 **About Me**  
 ✨ Passionate **Frontend Developer** specializing in building engaging, responsive, and dynamic web applications.  
 🌱 Constantly learning and exploring the latest in web development and design trends.  
-💻 Fun Fact: I'm a lifelong learner who loves tackling design and coding challenges.  
+💡 I love tackling UI/UX challenges and turning ideas into reality.  
+🎯 Currently working on improving my full-stack development skills.  
 
 ---
 
-### 🛠 **What I'm Currently Up To**  
-- 🔭 Exploring advanced features of **Next.js**.    
-- 📈 Building skills in **full-stack development** to expand my toolkit.  
+## 🛠 **What I'm Currently Up To**  
+- 🔭 Exploring advanced features of **Next.js**.  
+- 🚀 Enhancing my **backend development** knowledge with **Node.js & Express.js**.  
+- 🎨 Working on an **interactive portfolio website** to showcase my projects.  
 
 ---
 
 ## 🚀 **Skills & Tools**  
 
+### 🖥️ **Frontend Development**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,vscode" alt="Skill Icons" />
-</div>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+</div>
+
+### 🛠️ **Development Tools**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Dev Tools" />
+</div>
 
 ---
 
@@ -37,7 +45,7 @@
   <a href="https://github.com/Rimaakter1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</div>  
+</div>
 
 ---
 
@@ -46,15 +54,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rimaakter1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimaakter1&theme=radical" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimaakter1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## ✨ **Highlights**  
-- 🔥 Consistent streak of learning and contributing to open source.  
-- 🌟 Passion for crafting interactive and user-friendly interfaces.  
-- 🌍 Aim to contribute to projects that make a difference globally.
+- 🔥 Consistently contributing to open-source projects.  
+- 🌍 Passionate about building web experiences that are both beautiful and accessible.  
+- 🚀 Always open to learning and collaborating on exciting projects.  
 
 ---
 
@@ -62,4 +72,4 @@
 
 ---
 
-🎨 Feel free to connect with me, and let's build amazing things together!
+🎨 Let's connect and build amazing projects together! 🚀
