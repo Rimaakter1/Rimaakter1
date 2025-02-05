@@ -16,9 +16,8 @@
 ---
 
 ## 🛠 **What I'm Currently Up To**  
-- 🔭 Exploring advanced features of **Next.js**.  
-- 🚀 Enhancing my **backend development** knowledge with **Node.js & Express.js**.  
-- 🎨 Working on an **interactive portfolio website** to showcase my projects.  
+- 🚀 Improving my Next.js skills for better performance and SEO optimization.  
+- 🗄️ Enhancing my MongoDB expertise for efficient data management and scalability. 
 
 ---
 
@@ -27,6 +26,11 @@
 ### 🖥️ **Frontend Development**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+</div>
+
+### 🛠️ **Backend & Database**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" />
 </div>
 
 ### 🛠️ **Development Tools**  
@@ -62,13 +66,8 @@
 ---
 
 ## ✨ **Highlights**  
-- 🔥 Consistently contributing to open-source projects.  
 - 🌍 Passionate about building web experiences that are both beautiful and accessible.  
 - 🚀 Always open to learning and collaborating on exciting projects.  
-
----
-
-> “Code is not just code, it’s a medium to solve real-world problems and impact lives.”  
 
 ---
 
